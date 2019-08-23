@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: katjam/netlify-sandbox
+  branch: notmaster
 media_folder: static/assets
 public_folder: assets
 collections:
